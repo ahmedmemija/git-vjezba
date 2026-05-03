@@ -1,5 +1,5 @@
 Testiram novi repozitorij
-Ponovo smo tu
+Izmjene
 
 # Tehnologije
 - React
