@@ -1,5 +1,5 @@
 Testiram novi repozitorij
-Ponovo smo tu
+Ponovo smo tu( lokalno )
 
 # Tehnologije
 - React
